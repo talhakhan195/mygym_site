@@ -1,0 +1,100 @@
+body.home-background {
+    background-image: url('1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    color: black;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    font-size: larger;
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    padding: 0.5em;
+    background-attachment: scroll;
+  }
+  
+  footer {
+    background-color: yellow;
+    text-align: center;
+    padding: 0.5em;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+  }
+  
+  header p {
+    font-size: 2.2em;
+  }
+  
+  nav {
+    background-color: rgb(235, 235, 14);
+    text-align: center;
+    padding: 1%;
+  }
+  
+  nav a {
+    color: #000000;
+    padding: 1%;
+    font-weight: bold;
+  }
+  
+  body.about-background {
+    background-image: url('1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    color: black;
+  }
+  
+  body.membership-background {
+    background-image: url('1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    color: black;
+  }
+  
+  .box {
+    width: 88%;
+    margin: auto;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 4em;
+    border-radius: 0px;
+  }
+  
+  .main-banner {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background-color: rgba(57, 122, 73, 0);
+    padding: 10em;
+    border-radius: 8px;
+  }
+  
+  .card {
+    background-color: #e0f7fa;
+    padding: 1.0em;
+    border-radius: 0px;
+    text-align: center;
+  }
+  
+  .main-banner h3 {
+    font-size: 5em;
+  }
+  
+  header.logo {
+    background-image: url('logo1.png'); 
+    background-size: left;
+    background-position: left;
+    background-attachment: fixed; 
+    color: black;
+  }
+  
+  
